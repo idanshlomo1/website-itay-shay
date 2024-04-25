@@ -22,7 +22,7 @@ const Hero = () => {
                 </h3> */}
                 <h1 className="font-bold flex-col  text-3xl md:text-5xl">
                     {/* להפוך את העסק שלך    <span className="text-shineColor1">לסיפור הצלחה</span> */}
-                    איתי שי
+                    איתי
                 </h1>
                 <h2 className="font-bold my-2 text-xl text-mainColor md:text-3xl ">
                     מומחה בשיווק בדיגיטל
