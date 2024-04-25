@@ -30,7 +30,7 @@ const TikTokGrid = () => {
             עבודות תלת מימד
             </h1>
             <h2 data-aos="fade-in" data-aos-easing="ease-in-out" dir='rtl' className="font-medium px-4 my-4 text-base md:text-2xl max-w-[1000px] mx-auto text-center text-secondaryColor">
-            צפו במספר עבודות נבחרות שליי
+            צפו במספר עבודות נבחרות שלי
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16 gap-y-24 mt-12 max-w-[1200px] mx-auto">
                 {videos.map(({ url, header }, index) => {
